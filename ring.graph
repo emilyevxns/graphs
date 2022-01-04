@@ -1,0 +1,9 @@
+# Graph file that produces a ring of nodes
+N 0 node0
+N 1 node1
+N 2 node2
+N 3 node3
+E 0 1 100
+E 1 2 100
+E 2 3 100
+E 3 0 100
